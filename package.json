@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pattopilco/pack-audit-mongo/issues"
   },
-  "homepage": "https://github.com/pattopilco/pack-audit-mongo#readme"
+  "homepage": "https://github.com/pattopilco/pack-audit-mongo#readme",
+  "publishConfig": {
+  "@pattopilco:registry": "https://npm.pkg.github.com"
+}
 }
