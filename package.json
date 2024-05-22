@@ -1,0 +1,19 @@
+{
+  "name": "@pattopilco/pack-audit-mongo",
+  "version": "1.0.0",
+  "description": "Auditoria usando Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pattopilco/pack-audit-mongo.git"
+  },
+  "author": "Patricio Pilco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pattopilco/pack-audit-mongo/issues"
+  },
+  "homepage": "https://github.com/pattopilco/pack-audit-mongo#readme"
+}
